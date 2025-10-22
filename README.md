@@ -35,7 +35,7 @@ Ability to transform raw text into numerical features
 Practical exposure to visualization of linguistic patterns
 
 #### Assignment 2: Computer Vision (CV)
-##Overview
+## Overview
 
 This notebook demonstrates key Computer Vision techniques for image analysis and processing using Python.
 It covers various transformations and feature extraction methods commonly used in visual data tasks.
