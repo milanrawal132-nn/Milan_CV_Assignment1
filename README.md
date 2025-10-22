@@ -1,5 +1,5 @@
 Assignment 1: Natural Language Processing (NLP) 
-##overview
+## overview
 
 This notebook focuses on understanding and implementing essential NLP techniques used in text data processing and analysis.
 It explores how textual data can be cleaned, tokenized, analyzed, and represented for further modeling or visualization.
@@ -26,7 +26,7 @@ nltk, spacy, re
 
 matplotlib, seaborn, wordcloud
 
-##Learning Outcomes
+## Learning Outcomes
 
 Understanding of text preprocessing pipeline
 
@@ -40,7 +40,7 @@ Practical exposure to visualization of linguistic patterns
 This notebook demonstrates key Computer Vision techniques for image analysis and processing using Python.
 It covers various transformations and feature extraction methods commonly used in visual data tasks.
 
-##Key Tasks
+## Key Tasks
 
 Reading and displaying images
 
@@ -54,7 +54,7 @@ Feature extraction (SIFT, HOG, CNN features – as applicable)
 
 Simple image classification or segmentation task
 
-##Libraries Used
+## Libraries Used
 
 opencv-python (cv2)
 
@@ -62,7 +62,7 @@ numpy, matplotlib, scikit-image
 
 tensorflow / pytorch (if used)
 
-##Learning Outcomes
+## Learning Outcomes
 
 Understanding digital image representation
 
